@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Nicolas Cardinal
 
 # Your name to show in the footer
-author: Some Person
+author: Nicolas Cardinal
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://nicolascardinal.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -260,11 +260,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+# timezone: "America/Toronto"
+# markdown: kramdown
+# highlighter: rouge
+# permalink: /:year-:month-:day-:title/
+# paginate: 5
 
 kramdown:
   input: GFM
